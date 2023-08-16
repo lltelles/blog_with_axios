@@ -24,8 +24,7 @@ const Home = () => {
     } catch (error) {
       console.log(error)
     }
-
-  }
+  };
 
   useEffect(() => {
 
